@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="SImple Automation">f7658faadb030010ab71f7af2996199c</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>SImple Automations</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_159204_ezauto_x_159204_simple_automation</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_159204_ezauto.simple_automation_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>rpoore_admin</sys_created_by>
+        <sys_created_on>2020-02-21 22:54:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b3658faadb030010ab71f7af299619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SImple Automations</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Simple Automation" source="x_159204_ezauto">fce44726db030010ab71f7af299619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple Automation">fce44726db030010ab71f7af299619d8</sys_scope>
+        <sys_update_name>sys_app_module_b3658faadb030010ab71f7af299619a0</sys_update_name>
+        <sys_updated_by>rpoore_admin</sys_updated_by>
+        <sys_updated_on>2020-02-21 22:54:14</sys_updated_on>
+        <timeline_page/>
+        <title>SImple Automations</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Simple Automation">fce44726db030010ab71f7af299619d8</application>
+        <file_path/>
+        <instance_id>dbd8008adb903f000b9d21c405961958</instance_id>
+        <instance_name>dev76398</instance_name>
+        <name>sys_app_module_b3658faadb030010ab71f7af299619a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="SImple Automation">f7658faadb030010ab71f7af2996199c</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>SImple Automations</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_159204_ezauto_x_159204_simple_automation</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_159204_ezauto.simple_automation_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2020-02-21 22:54:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b3658faadb030010ab71f7af299619a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SImple Automations</sys_name><sys_overrides/><sys_package display_value="Simple Automation" source="x_159204_ezauto">fce44726db030010ab71f7af299619d8</sys_package><sys_policy/><sys_scope display_value="Simple Automation">fce44726db030010ab71f7af299619d8</sys_scope><sys_update_name>sys_app_module_b3658faadb030010ab71f7af299619a0</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2020-02-21 22:54:14</sys_updated_on><timeline_page/><title>SImple Automations</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1151376763</payload_hash>
+        <record_name>SImple Automations</record_name>
+        <reverted_from/>
+        <source>70e44726db030010ab71f7af299619db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>rpoore_admin</sys_created_by>
+        <sys_created_on>2020-02-21 22:54:14</sys_created_on>
+        <sys_id>44758faadb030010ab71f7af299619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17069f564ff0000001</sys_recorded_at>
+        <sys_updated_by>rpoore_admin</sys_updated_by>
+        <sys_updated_on>2020-02-21 22:54:14</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4c758faa3403001046e14b20a2a20ca2</update_guid>
+        <update_guid_history>4c758faa3403001046e14b20a2a20ca2:1151376763</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="SImple Automations">00e6872edb030010ab71f7af29961930</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>rpoore_admin</sys_created_by>
+        <sys_created_on>2020-02-21 23:00:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>4dea8e3b12cc4b9db27a81ea82f5ad51</sys_id>
+        <sys_metadata>b3658faadb030010ab71f7af299619a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SImple Automations</sys_name>
+        <sys_package display_value="Simple Automation" source="x_159204_ezauto">fce44726db030010ab71f7af299619d8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Simple Automation">fce44726db030010ab71f7af299619d8</sys_scope>
+        <sys_scope_delete display_value="">0191fe0ed3444d568056bbdfedf92d09</sys_scope_delete>
+        <sys_update_name>sys_app_module_b3658faadb030010ab71f7af299619a0</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b3658faadb030010ab71f7af299619a0">44758faadb030010ab71f7af299619a3</sys_update_version>
+        <sys_updated_by>rpoore_admin</sys_updated_by>
+        <sys_updated_on>2020-02-21 23:00:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

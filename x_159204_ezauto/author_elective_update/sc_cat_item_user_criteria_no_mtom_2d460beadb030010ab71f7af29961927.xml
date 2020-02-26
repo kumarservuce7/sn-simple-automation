@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="">5d164beadb030010ab71f7af299619d2</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>rpoore_admin</sys_created_by>
+        <sys_created_on>2020-02-21 22:57:54</sys_created_on>
+        <sys_id>2d460beadb030010ab71f7af29961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple Automation.SNC External</sys_name>
+        <sys_package display_value="Simple Automation" source="x_159204_ezauto">fce44726db030010ab71f7af299619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple Automation">fce44726db030010ab71f7af299619d8</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_2d460beadb030010ab71f7af29961927</sys_update_name>
+        <sys_updated_by>rpoore_admin</sys_updated_by>
+        <sys_updated_on>2020-02-21 22:57:54</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Simple Automation">fce44726db030010ab71f7af299619d8</application>
+        <file_path/>
+        <instance_id>dbd8008adb903f000b9d21c405961958</instance_id>
+        <instance_name>dev76398</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_2d460beadb030010ab71f7af29961927</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="">5d164beadb030010ab71f7af299619d2</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2020-02-21 22:57:54</sys_created_on><sys_id>2d460beadb030010ab71f7af29961927</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Simple Automation.SNC External</sys_name><sys_package display_value="Simple Automation" source="x_159204_ezauto">fce44726db030010ab71f7af299619d8</sys_package><sys_policy/><sys_scope display_value="Simple Automation">fce44726db030010ab71f7af299619d8</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_2d460beadb030010ab71f7af29961927</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2020-02-21 22:57:54</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>424694442</payload_hash>
+        <record_name>Simple Automation.SNC External</record_name>
+        <reverted_from/>
+        <source>c6be8321db220010ab71f7af299619b0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-01-25 00:29:29</sys_created_on>
+        <sys_id>23c6072edb030010ab71f7af2996198d</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>16fda1a86280000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>efc6072efe03001054f8883f27fd138c</update_guid>
+        <update_guid_history>efc6072efe03001054f8883f27fd138c:424694442</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Simple Automation.SNC External">2fc6072edb030010ab71f7af2996198f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>rpoore_admin</sys_created_by>
+        <sys_created_on>2020-02-21 23:00:13</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>6d09cdc886d04bf0beeb872b5a4073e4</sys_id>
+        <sys_metadata>2d460beadb030010ab71f7af29961927</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple Automation.SNC External</sys_name>
+        <sys_package display_value="Simple Automation" source="x_159204_ezauto">fce44726db030010ab71f7af299619d8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Simple Automation">fce44726db030010ab71f7af299619d8</sys_scope>
+        <sys_scope_delete display_value="">0191fe0ed3444d568056bbdfedf92d09</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_2d460beadb030010ab71f7af29961927</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_2d460beadb030010ab71f7af29961927">23c6072edb030010ab71f7af2996198d</sys_update_version>
+        <sys_updated_by>rpoore_admin</sys_updated_by>
+        <sys_updated_on>2020-02-21 23:00:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

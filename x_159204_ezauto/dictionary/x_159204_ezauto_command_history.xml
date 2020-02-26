@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Simple Automation" max_length="40" name="x_159204_ezauto_command_history" sizeclass="6" type="collection">
+        <element choice="1" label="Action" max_length="40" name="action" type="choice">
+            <choice/>
+        </element>
+        <element label="Parameters" max_length="128" name="parameters" type="string"/>
+        <element label="Windows Server" max_length="32" name="windows_server" reference="cmdb_ci_win_server" type="reference"/>
+        <index name="index">
+            <element name="windows_server"/>
+        </index>
+    </element>
+</database>

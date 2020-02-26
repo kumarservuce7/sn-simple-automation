@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>rpoore_admin</sys_created_by>
+        <sys_created_on>2020-02-21 22:54:15</sys_created_on>
+        <sys_id>0c758faadb030010ab71f7af299619bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_159204_ezauto_x_159204_simple_automation.x_159204_ezauto.simple_automation_user</sys_name>
+        <sys_package display_value="Simple Automation" source="x_159204_ezauto">fce44726db030010ab71f7af299619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple Automation">fce44726db030010ab71f7af299619d8</sys_scope>
+        <sys_security_acl display_value="x_159204_ezauto_x_159204_simple_automation">08758faadb030010ab71f7af299619b7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0c758faadb030010ab71f7af299619bb</sys_update_name>
+        <sys_updated_by>rpoore_admin</sys_updated_by>
+        <sys_updated_on>2020-02-21 22:54:15</sys_updated_on>
+        <sys_user_role display_value="x_159204_ezauto.simple_automation_user" name="x_159204_ezauto.simple_automation_user">3b658faadb030010ab71f7af29961984</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Simple Automation">fce44726db030010ab71f7af299619d8</application>
+        <file_path/>
+        <instance_id>dbd8008adb903f000b9d21c405961958</instance_id>
+        <instance_name>dev76398</instance_name>
+        <name>sys_security_acl_role_0c758faadb030010ab71f7af299619bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>rpoore_admin</sys_created_by><sys_created_on>2020-02-21 22:54:15</sys_created_on><sys_id>0c758faadb030010ab71f7af299619bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_159204_ezauto_x_159204_simple_automation.x_159204_ezauto.simple_automation_user</sys_name><sys_package display_value="Simple Automation" source="x_159204_ezauto">fce44726db030010ab71f7af299619d8</sys_package><sys_policy/><sys_scope display_value="Simple Automation">fce44726db030010ab71f7af299619d8</sys_scope><sys_security_acl display_value="x_159204_ezauto_x_159204_simple_automation">08758faadb030010ab71f7af299619b7</sys_security_acl><sys_update_name>sys_security_acl_role_0c758faadb030010ab71f7af299619bb</sys_update_name><sys_updated_by>rpoore_admin</sys_updated_by><sys_updated_on>2020-02-21 22:54:15</sys_updated_on><sys_user_role display_value="x_159204_ezauto.simple_automation_user" name="x_159204_ezauto.simple_automation_user">3b658faadb030010ab71f7af29961984</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1614141625</payload_hash>
+        <record_name>x_159204_ezauto_x_159204_simple_automation.x_159204_ezauto.simple_automation_user</record_name>
+        <reverted_from/>
+        <source>70e44726db030010ab71f7af299619db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>rpoore_admin</sys_created_by>
+        <sys_created_on>2020-02-21 22:54:15</sys_created_on>
+        <sys_id>48758faadb030010ab71f7af299619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17069f566ce0000001</sys_recorded_at>
+        <sys_updated_by>rpoore_admin</sys_updated_by>
+        <sys_updated_on>2020-02-21 22:54:15</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>40758faa34030010854c7b01bd75a1bf</update_guid>
+        <update_guid_history>40758faa34030010854c7b01bd75a1bf:-1614141625</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_159204_ezauto_x_159204_simple_automation.x_159204_ezauto.simple_automation_use">c8e6872edb030010ab71f7af29961918</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>rpoore_admin</sys_created_by>
+        <sys_created_on>2020-02-21 23:00:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>5b821d20a05241c2ac349b3afb742171</sys_id>
+        <sys_metadata>0c758faadb030010ab71f7af299619bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_159204_ezauto_x_159204_simple_automation.x_159204_ezauto.simple_automation_user</sys_name>
+        <sys_package display_value="Simple Automation" source="x_159204_ezauto">fce44726db030010ab71f7af299619d8</sys_package>
+        <sys_parent display_value="">08758faadb030010ab71f7af299619b7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Simple Automation">fce44726db030010ab71f7af299619d8</sys_scope>
+        <sys_scope_delete display_value="">0191fe0ed3444d568056bbdfedf92d09</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_0c758faadb030010ab71f7af299619bb</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_0c758faadb030010ab71f7af299619bb">48758faadb030010ab71f7af299619bf</sys_update_version>
+        <sys_updated_by>rpoore_admin</sys_updated_by>
+        <sys_updated_on>2020-02-21 23:00:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

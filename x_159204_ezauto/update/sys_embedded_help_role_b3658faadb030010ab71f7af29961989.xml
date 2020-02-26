@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role/>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>rpoore_admin</sys_created_by>
+        <sys_created_on>2020-02-21 22:54:14</sys_created_on>
+        <sys_id>b3658faadb030010ab71f7af29961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3b658faadb030010ab71f7af29961984</sys_name>
+        <sys_package display_value="Simple Automation" source="x_159204_ezauto">fce44726db030010ab71f7af299619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple Automation">fce44726db030010ab71f7af299619d8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b3658faadb030010ab71f7af29961989</sys_update_name>
+        <sys_updated_by>rpoore_admin</sys_updated_by>
+        <sys_updated_on>2020-02-21 22:54:14</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
