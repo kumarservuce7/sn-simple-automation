@@ -4,6 +4,7 @@
             <choice/>
         </element>
         <element label="Parameters" max_length="128" name="parameters" type="string"/>
+        <element label="Results" max_length="1024" name="results" type="string"/>
         <element label="Windows Server" max_length="32" name="windows_server" reference="cmdb_ci_win_server" type="reference"/>
         <index name="index">
             <element name="windows_server"/>

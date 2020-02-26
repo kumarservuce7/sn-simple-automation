@@ -56,6 +56,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>results</element>
+            <position>4</position>
+            <sys_created_by>rpoore_admin</sys_created_by>
+            <sys_created_on>2020-02-26 01:17:19</sys_created_on>
+            <sys_id>038c0c80db970010ab71f7af29961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_159204_ezauto_command_history" sys_domain="global" view="Default view">866ec7a2db430010ab71f7af2996195b</sys_ui_section>
+            <sys_updated_by>rpoore_admin</sys_updated_by>
+            <sys_updated_on>2020-02-26 01:17:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
